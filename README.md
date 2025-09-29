@@ -13,7 +13,7 @@ The project simulates a real-world retail business scenario with **sales and pro
 ## Project Structure  
 
 ### DDL Scripts (Database Design)  
-- **DDL_Task1.sql** & **DDL_NTI.sql**  
+- **DDL_Task1.sql**   
   - Create the `SalesProductionDB` database with tables for `customers`, `staffs`, `stores`, `orders`, `order_items`, `categories`, `brands`, `products`, and `stocks`.  
   - Define **primary keys, foreign keys, and constraints** to ensure referential integrity.  
 
