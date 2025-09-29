@@ -1,4 +1,4 @@
-# 🚲 BikeStores SQL Project  
+# 🚲 BikeStores SQL Analysis
 
 ## Project Overview  
 This project demonstrates my skills in **SQL database design, data manipulation, and analysis** using the **BikeStores sample dataset**.  
