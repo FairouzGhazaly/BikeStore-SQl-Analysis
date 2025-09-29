@@ -13,19 +13,19 @@ The project simulates a real-world retail business scenario with **sales and pro
 ## Project Structure  
 
 ### DDL Scripts (Database Design)  
-- **DDL_Task1.sql**   
+- [**DDL_Task1.sql**](https://github.com/FairouzGhazaly/BikeStore-SQl-Analysis/blob/main/DDL_Task%201.sql)   
   - Create the `SalesProductionDB` database with tables for `customers`, `staffs`, `stores`, `orders`, `order_items`, `categories`, `brands`, `products`, and `stocks`.  
   - Define **primary keys, foreign keys, and constraints** to ensure referential integrity.  
 
-- **BikeStores Sample Database - create objects.sql**  
+- [**BikeStores Sample Database - create objects.sql**](https://github.com/FairouzGhazaly/BikeStore-SQl-Analysis/blob/main/BikeStores%20Sample%20Database%20-%20create%20objects.sql)  
   - Creates the original **BikeStores schemas (sales, production)** and their objects.  
 
-- **BikeStores Sample Database - drop all objects.sql**  
+- [**BikeStores Sample Database - drop all objects.sql**](https://github.com/FairouzGhazaly/BikeStore-SQl-Analysis/blob/main/BikeStores%20Sample%20Database%20-%20drop%20all%20objects.sql)  
   - Cleans up the environment by dropping all schemas and tables.  
 
 
-### DML Scripts (Data Management)  
-- **DML_Task1.sql**  
+### DML Scripts (Data Management)]  
+- [**DML_Task1.sql**](https://github.com/FairouzGhazaly/BikeStore-SQl-Analysis/blob/main/DML_Task1.sql)  
   - Inserts sample data into key tables (`customers`, `stores`, `staffs`, `orders`, `categories`, `brands`, `products`, `stocks`, `order_items`).  
   - Updates phone numbers, product prices, order status, and staff assignments.  
   - Deletes invalid or canceled customers.  
@@ -35,7 +35,7 @@ The project simulates a real-world retail business scenario with **sales and pro
     - Available stock  
     - Customer order counts  
 
-- **BikeStores Sample Database - load data.sql**  
+- [**BikeStores Sample Database - load data.sql**](https://github.com/FairouzGhazaly/BikeStore-SQl-Analysis/blob/main/BikeStores%20Sample%20Database%20-%20load%20data.sql)  
   - Populates the `production` and `sales` schemas with realistic data:  
     - Brands (Trek, Electra, Haro, Surly, etc.)  
     - Product categories  
@@ -43,7 +43,7 @@ The project simulates a real-world retail business scenario with **sales and pro
 
 
 ### Analytical Queries  
-- **Task2_sql.sql**  
+- [**Task2_sql.sql**](https://github.com/FairouzGhazaly/BikeStore-SQl-Analysis/blob/main/Task2_sql.sql)  
   - A collection of business-driven SQL queries, including:  
     - Most expensive bike  
     - Total & valid customers  
